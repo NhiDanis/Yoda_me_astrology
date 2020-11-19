@@ -1,4 +1,5 @@
 # Yoda Me Astrology
+<img src="https://img.shields.io/badge/LICENSE-mit-green"/>
 
 ## Description:
 
